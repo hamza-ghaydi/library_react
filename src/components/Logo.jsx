@@ -5,7 +5,7 @@ const Logo = () => (
   <img
     src={logo}
     alt="Library React Logo"
-    className="h-12"
+    className="w-[60%]"
     style={{ filter: 'invert(53%) sepia(92%) saturate(749%) hue-rotate(2deg) brightness(101%) contrast(101%)' }}
   />
 );

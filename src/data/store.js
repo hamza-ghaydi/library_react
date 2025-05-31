@@ -3,7 +3,7 @@ export const books = [
         id: 1,
         title: "The Silent Patient",
         description: "A psychological thriller about a woman's act of violence against her husband—and the therapist obsessed with uncovering her motive.",
-        image: ""
+        image: "https://m.media-amazon.com/images/I/61R+Cpm+HxL._AC_UF894,1000_QL80_.jpg"
     },
     {
         id: 2,
